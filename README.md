@@ -1,3 +1,3 @@
 # geom_stuff
 
-Some random stuff and producing a new geom.
+Some random **ggplot2** stuff and the creation of a new geom.
